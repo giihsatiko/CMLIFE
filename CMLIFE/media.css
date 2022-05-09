@@ -1,0 +1,10 @@
+@media (max-width: 728px) {
+  .menu div:last-of-type{
+    justify-content: space-around;
+  }
+  .especialidade-imagens {
+    justify-content: space-around;
+    flex-wrap: wrap;
+  }
+ 
+}
